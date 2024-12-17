@@ -1,5 +1,3 @@
 This is task 1 in my Git assignment - for main branch
 
 Feature A
-
-Feature B
